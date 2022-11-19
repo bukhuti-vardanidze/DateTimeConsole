@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\bin\Debug\net6.0\DateTimeConsoleApp.exe
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\bin\Debug\net6.0\DateTimeConsoleApp.deps.json
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\bin\Debug\net6.0\DateTimeConsoleApp.runtimeconfig.json
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\bin\Debug\net6.0\DateTimeConsoleApp.dll
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\bin\Debug\net6.0\DateTimeConsoleApp.pdb
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.AssemblyInfo.cs
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.dll
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\refint\DateTimeConsoleApp.dll
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.pdb
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\DateTimeConsoleApp.genruntimeconfig.cache
+C:\Users\varda\Desktop\DateTimeConsole\DateTimeConsoleApp\obj\Debug\net6.0\ref\DateTimeConsoleApp.dll
